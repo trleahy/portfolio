@@ -1288,4 +1288,11 @@ input[type="text"] {
   opacity: 0;
 }
 
+.button {
+  font-size: 12px;
+  border-radius: 8px;
+  background-color: #161616;
+  color: #fafafc;
+  padding: 10px 24px;
+}
 /*# sourceMappingURL=style.css.map */
