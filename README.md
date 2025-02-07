@@ -1,3 +1,6 @@
-This repo contains the source code for my personal portfolio.
+# Watermarker
+Public repo hosting for my personal portfolio.
 
-The site is hosted on GitHub Pages and is available [here](trleahy.oblivion.media)
+## 
+
+If you're not me and you have a question, you can contact me using the form [here](https://oblivionmedia.typeform.com/to/EwQYqmPa).
