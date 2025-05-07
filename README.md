@@ -1,4 +1,4 @@
-# Watermarker
+# Portfolio
 Public repo hosting for my personal portfolio.
 
 ## 
